@@ -1,0 +1,9 @@
+C:\Users\aldil\onedrive\documents\visual studio 2010\Projects\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\aldil\onedrive\documents\visual studio 2010\Projects\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\aldil\onedrive\documents\visual studio 2010\Projects\CRUD\CRUD\bin\Debug\CRUD.xml
+C:\Users\aldil\onedrive\documents\visual studio 2010\Projects\CRUD\CRUD\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\aldil\onedrive\documents\visual studio 2010\Projects\CRUD\CRUD\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\aldil\onedrive\documents\visual studio 2010\Projects\CRUD\CRUD\obj\x86\Debug\CRUD.vbproj.GenerateResource.Cache
+C:\Users\aldil\onedrive\documents\visual studio 2010\Projects\CRUD\CRUD\obj\x86\Debug\CRUD.exe
+C:\Users\aldil\onedrive\documents\visual studio 2010\Projects\CRUD\CRUD\obj\x86\Debug\CRUD.xml
+C:\Users\aldil\onedrive\documents\visual studio 2010\Projects\CRUD\CRUD\obj\x86\Debug\CRUD.pdb
